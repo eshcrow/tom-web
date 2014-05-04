@@ -1,0 +1,48 @@
+[submodule "system"]
+	path = system
+	url = https://github.com/kohana/core.git
+[submodule "modules/codebench"]
+	path = modules/codebench
+	url = https://github.com/kohana/codebench.git
+[submodule "modules/database"]
+	path = modules/database
+	url = https://github.com/kohana/database.git
+[submodule "modules/image"]
+	path = modules/image
+	url = https://github.com/kohana/image.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = https://github.com/kohana/orm.git
+[submodule "modules/auth"]
+	path = modules/auth
+	url = https://github.com/kohana/auth.git
+[submodule "modules/userguide"]
+	path = modules/userguide
+	url = https://github.com/kohana/userguide.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = https://github.com/kohana/cache.git
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = https://github.com/kohana/unittest.git
+[submodule "modules/minion"]
+	path = modules/minion
+	url = https://github.com/kohana/minion.git
+[submodule "modules/partials"]
+	path = modules/partials
+	url = https://github.com/gevans/kohana-partials.git
+[submodule "modules/migrations"]
+	path = modules/migrations
+	url = https://github.com/ferpetrelli/kohana-flexible-migrations.git
+[submodule "modules/dispatch"]
+	path = modules/dispatch
+	url = https://github.com/morgan/kohana-dispatch.git
+[submodule "modules/rest"]
+	path = modules/rest
+	url = https://github.com/morgan/kohana-orm-rest.git
+[submodule "modules/jelly"]
+	path = modules/jelly
+	url = https://github.com/lyzzard/jelly.git
+[submodule "modules/arr"]
+	path = modules/arr
+	url = https://github.com/happyDemon/arr.git
