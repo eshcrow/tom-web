@@ -26,6 +26,9 @@ class Model_Ban extends Jelly_Model
                 'player' => Jelly::field('string'),
                 'reason' => Jelly::field('string'),
                 'proof' => Jelly::field('string'),
+                'suggestion' => Jelly::field('enum', array(
+                    'choices' => array('minute','hour','day','week','forever'),
+                )),
             ));
     }
 }
