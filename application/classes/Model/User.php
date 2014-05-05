@@ -3,11 +3,11 @@
 class Model_User extends Jelly_Model
 {
     const
-        ADMIN  = 4,
-        LEAD   = 3,
-        MOD    = 2,
-        JUNIOR = 1,
-        GUEST  = 0;
+        MANAGER   = 4,
+        ADMIN     = 3,
+        MOD       = 2,
+        CANDIDATE = 1,
+        GUEST     = 0;
 
     public static function initialize(Jelly_Meta $meta)
     {
